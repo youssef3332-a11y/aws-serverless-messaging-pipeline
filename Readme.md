@@ -157,6 +157,6 @@ Ok here’s the moment of truth. First, let’s review our architecture again:
 
 Now navigate to your subscription email and see if you received the SNS email notification with the timestamp message inside.
 
-![alt text](./images/image-22.png)
+
 
 - Notice that the messages match. Perfect! You’re all connected. Thank you for following along with me on this tutorial and I hope you see how these concepts could be useful in real-world situations where you want to send SNS email notifications to clients. There is a more streamlined way to do this entire process, but for this tutorial I wanted to practice my Python code so it made the project a but more tedious. Thank you so much and I’ll see you in the next tutorial!
